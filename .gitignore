@@ -1,0 +1,21 @@
+# Flutter
+university_finder_app/.dart_tool/
+university_finder_app/.flutter-plugins
+university_finder_app/.flutter-plugins-dependencies
+university_finder_app/.pub-cache/
+university_finder_app/.pub/
+university_finder_app/build/
+university_finder_app/.idea/
+university_finder_app/*.iml
+university_finder_app/android/app/debug
+university_finder_app/android/app/profile
+university_finder_app/android/app/release
+
+# Node/Backend
+backend/node_modules/
+backend/.env
+backend/npm-debug.log*
+
+# General
+.DS_Store
+*.log
